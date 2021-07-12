@@ -1,24 +1,22 @@
 {
   "files": {
-    "app.js": "/static/js/app.1c0a83c1.chunk.js",
-    "app.js.map": "/static/js/app.1c0a83c1.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
-    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.234671a2.chunk.js": "/static/js/2.234671a2.chunk.js",
-    "static/js/2.234671a2.chunk.js.map": "/static/js/2.234671a2.chunk.js.map",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
+    "main.css": "/static/css/main.54d1a45f.chunk.css",
+    "main.js": "/static/js/main.15cfc53f.chunk.js",
+    "main.js.map": "/static/js/main.15cfc53f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80b0850d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80b0850d.js.map",
+    "static/js/2.bddce99c.chunk.js": "/static/js/2.bddce99c.chunk.js",
+    "static/js/2.bddce99c.chunk.js.map": "/static/js/2.bddce99c.chunk.js.map",
     "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.234671a2.chunk.js.LICENSE.txt": "/static/js/2.234671a2.chunk.js.LICENSE.txt",
-    "static/media/radarImage.jpg": "/static/media/radarImage.c58f8b35.jpg",
-    "static/media/satImage.jpg": "/static/media/satImage.a47ca4a9.jpg"
+    "static/css/main.54d1a45f.chunk.css.map": "/static/css/main.54d1a45f.chunk.css.map",
+    "static/js/2.bddce99c.chunk.js.LICENSE.txt": "/static/js/2.bddce99c.chunk.js.LICENSE.txt",
+    "static/media/loginStyles.scss": "/static/media/homepage.b4a7852b.svg",
+    "static/media/logo.e807720c.png": "/static/media/logo.e807720c.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.234671a2.chunk.js",
-    "static/js/app.1c0a83c1.chunk.js"
+    "static/js/runtime-main.80b0850d.js",
+    "static/js/2.bddce99c.chunk.js",
+    "static/css/main.54d1a45f.chunk.css",
+    "static/js/main.15cfc53f.chunk.js"
   ]
 }
